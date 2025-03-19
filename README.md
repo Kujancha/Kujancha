@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+I like to stare at tress cos they are beautiful
+
 <!--
 **Kujancha/Kujancha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
